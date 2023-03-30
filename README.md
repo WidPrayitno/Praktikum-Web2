@@ -14,14 +14,18 @@ Upload ke github menggunakan gitbash
 
 Cara lengkap untuk upload di github
 Mengunduh repository
-    git clone <url repository> <Folder Tujuan>
+Perintah: git clone <url repository> <Folder Tujuan>
+
 Memperbaharui Repository yang telah di unduh di lokal dari github
-    git pull
+Perintah: git pull
+
 Mengunggah perubahan
 * Notes: untuk dapat mengupload kita diharuskan untuk melakukan pull terlebih dahulu sebelum melakukan push
-  Tambah file sekaligus
-    git add .
-  Konfirmasi penambahan atau perubahan file
-    git commit -m "Pesan dari commit"
-  Kirim perubahan ke dalam repository
-    git push origin <Nama brach>
+Tambah file sekaligus
+Perintah: git add .
+
+Konfirmasi penambahan atau perubahan file
+Perintah: git commit -m "Pesan dari commit"
+  
+Kirim perubahan ke dalam repository
+Perintah: git push origin <Nama brach>
