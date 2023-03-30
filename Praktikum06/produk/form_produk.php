@@ -105,15 +105,15 @@ if (!empty($_GET['idedit'])) {
       </select>
     </div>
   </div>
-  
+
   <div class="form-group row">
-        <div class="offset-4 col-8">
-            <!-- Validasi -->
-            <?php 
-            $button = (empty($edit)) ? "Simpan" : "Update";
-            ?>
-            <input type="submit" name="proses" type="submit" class="btn btn-primary" value="<?= $button ?>" />
-            <input type="hidden" name="idedit" value="<?= $edit; ?>" />
-        </div>
+    <div class="offset-4 col-8">
+      <!-- Validasi -->
+      <?php
+      $button = (empty($edit)) ? "Simpan" : "Update";
+      ?>
+      <input type="submit" name="proses" type="submit" class="btn btn-primary" value="<?= $button ?>" />
+      <input type="hidden" name="idedit" value="<?= $edit; ?>" />
     </div>
+  </div>
 </form>
