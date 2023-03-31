@@ -1,31 +1,21 @@
+# Daftar ISI dari praktikum web-2
+* [Mengenal Tentang Repository Praktikum-Web2](https://github.com/WidPrayitno/Praktikum-Web2#praktikum-web2)
+* [Time Line Praktikum](https://github.com/WidPrayitno/Praktikum-Web2#Time-line-praktikum)
+
 # Praktikum-Web2
-Tugas-tugas praktikum web 2
+Tugas-tugas dan hasil praktikum web 2
+Module yang digunakan dalam praktikum web 2
+https://guiltless-speedboat-6e6.notion.site/2e137b94dd9e4a7498465183020b1eb4?v=874549c4593441b8ab821a170edf90d3
 
+# Time line praktikum
 
-Upload ke github menggunakan gitbash
-- git add .
-  untuk mentrack perubahan codingan yang ada di visual studio code
-- git commit -m "Komentar untuk setiap perubahan"
-  untuk memberikan komentar kepada file yang akan diupload
-- git push origin main
-  sebagai tempat(brach) upload yang diupload
+Repository ini merupakan hasil dari pada praktikum yang dilakukan di saat semester 2, berikut time line dari hasil praktikum maupun hasil tugas yang sudah diberikan.
 
-
-
-Cara lengkap untuk upload di github
-Mengunduh repository
-Perintah: git clone <url repository> <Folder Tujuan>
-
-Memperbaharui Repository yang telah di unduh di lokal dari github
-Perintah: git pull
-
-Mengunggah perubahan
-* Notes: untuk dapat mengupload kita diharuskan untuk melakukan pull terlebih dahulu sebelum melakukan push
-Tambah file sekaligus
-Perintah: git add .
-
-Konfirmasi penambahan atau perubahan file
-Perintah: git commit -m "Pesan dari commit"
-  
-Kirim perubahan ke dalam repository
-Perintah: git push origin <Nama brach>
+```
+Praktikum01: Membahas sintaks, Variable, dan Array pada php
+Praktikum02: 
+Praktikum03:
+Praktikum04: Memisahkan bagian-bagian dari html menggunakan php, membahas perbedaan include dan require, dan cara membuat login web sederhana menggunakan admin lte
+Praktikum05: Praktikum yang membahas PDO dan cara penggunaannya agar dapat terhubung dengan database mysql
+Praktikum06: Merupakan praktikum lanjutan dari praktikum yang dilakukan pada Praktikum05
+```
